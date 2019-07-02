@@ -1,0 +1,2 @@
+CFLAGS=-I../binary-search-tree-master
+LDFLAGS=-L../binary-search-tree-master
